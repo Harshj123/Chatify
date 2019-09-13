@@ -1,2 +1,2 @@
 # Chatify
-A messenger app
+ A messenger app
