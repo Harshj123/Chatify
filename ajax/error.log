@@ -1,0 +1,11 @@
+[26-Jul-2019 12:32:45 Europe/Berlin] PHP Notice:  Undefined variable: con in C:\xampp\htdocs\messenger\ajax\send_message.php on line 16
+[26-Jul-2019 12:32:45 Europe/Berlin] PHP Notice:  Undefined property: base_class::$ in C:\xampp\htdocs\messenger\ajax\send_message.php on line 16
+[26-Jul-2019 12:32:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on null in C:\xampp\htdocs\messenger\ajax\send_message.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\messenger\ajax\send_message.php on line 16
+[26-Jul-2019 12:45:28 Europe/Berlin] PHP Notice:  Undefined variable: con in C:\xampp\htdocs\messenger\ajax\send_message.php on line 16
+[26-Jul-2019 12:45:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on null in C:\xampp\htdocs\messenger\ajax\send_message.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\messenger\ajax\send_message.php on line 16
